@@ -1,0 +1,12 @@
+h1 {
+  /* màu chữ */
+  color: red;
+  /* kiểu chữ */
+  font-style: italic;
+  /* font chữ */
+  font-family: "Times New Roman", Times, serif;
+  /* chuyển đổi chữ hoa chữ thường */
+  text-transform: uppercase;
+  /* căn chỉnh trái--phải-giữa */
+  text-align: right;
+}
